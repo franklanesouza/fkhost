@@ -38,7 +38,7 @@
 ------------------------------------*/
 .sh__content {
     position: relative;
-    height: 240px;
+    height: auto;
     transition: transform .7s cubic-bezier(.54,0,.1,1);
     transform: translate3d(0, 0, 0);
 }
