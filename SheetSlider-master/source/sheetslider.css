@@ -285,7 +285,7 @@
 
 /* Large devices */
 @media (min-width: 992px) {
-    .sh__content {height: auto;}
+    .sh__content {height: 237px;}
     .sheetSlider{font-size: 10px;}
 }
 
